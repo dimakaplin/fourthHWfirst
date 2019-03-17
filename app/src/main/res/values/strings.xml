@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="save_btn">сохранить</string>
+    <string name="save_message">данные сохранены</string>
+</resources>
